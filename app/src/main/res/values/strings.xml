@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Productivity Quiz</string>
+    <string name="next">next</string>
+    <string name="submit">submit</string>
+    <string name="question1">What is the 80/20 rule?</string>
+    <string name="question2">should you multitask?</string>
+    <string name="question3">Should you work before you get motived or inspired?</string>
+    <string name="yes">yes, ofcourse!</string>
+    <string name="no">no, I don\'t feel like it</string>
+    <string name="question4">how do you know what task comes first?</string>
+    <string name="question5">what is deep work?</string>
+    <string name="question6">if the task take long time what should you do?</string>
+    <string name="question6Answare1">stop working on it</string>
+    <string name="question6Answare2">do it tomorrow</string>
+    <string name="question6Answare3">break it in to small tasks</string>
+    <string name="question6Answare4">work on the smaller task one by one</string>
+    <string name="Congratulations">\"🎉 Congratulations🎉 \"</string>
+    <string name="winnigText">You on the top of your game ✨</string>
+    <string name="losingText">it seem like you need some help on being productive</string>
+    <string name="tip">try to read these books to help you out📚:\n</string>
+    <string name="booksName1">\n The Power of Habit, by Charles \n</string>
+    <string name="booksName2">Duhigg</string>
+    <string name="booksName3">\n The 4-Hour Workweek, by Timothy Ferriss</string>
+    <string name="are_you_a_productive_person">Are you a productive person?</string>
+    <string name="then_this_is_the_quiz_for_you">then this is the quiz for you!</string>
+    <string name="enter_your_answer_here">enter your answer here</string>
+    <string name="Yeah">Yeah why not!</string>
+    <string name="nah_it_s_not_a_good_idea">Nah, it\'s not a good idea</string>
+    <string name="by_the_level_of_importance">by the level of importance.</string>
+    <string name="by_the_name_of_the_tasks">by the name of the tasks.</string>
+    <string name="by_the_order_of_tasks">by the order of tasks.</string>
+    <string name="by_the_period_of_time_it_need_to_be_done">by the period of time it need to be done.</string>
+    <string name="lets_see">lets see</string>
+    <string name="answer">that 80% of your results come from 20% of your efforts</string>
+    <string name="answer2">Activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limits</string>
+</resources>
